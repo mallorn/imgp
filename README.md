@@ -30,6 +30,7 @@ Powered by multiprocessing, an intelligent adaptive algorithm, recursive operati
 - [Installation](#installation)
   - [Dependencies](#dependencies)
   - [Installing with a package manager](#installing-with-a-package-manager)
+  - [Homebrew](#homebrew)
   - [Installing from this repository](#installing-from-this-repository)
     - [Running as a standalone utility](#running-as-a-standalone-utility)
     - [Debian package](#debian-package)
@@ -94,6 +95,12 @@ pillow can be replaced by [pillow-simd](https://github.com/uploadcare/pillow-sim
 - [Debian](https://packages.debian.org/search?keywords=imgp&searchon=names&exact=1)
 - [Ubuntu](http://packages.ubuntu.com/search?keywords=imgp&searchon=names&exact=1)
 - [Ubuntu PPA](https://launchpad.net/~twodopeshaggy/+archive/ubuntu/jarun/)
+
+#### Homebrew
+
+If you are on OS X, install using the Homebrew **tap**:
+
+    brew install jarun/imgp/imgp
 
 #### Installing from this repository
 
